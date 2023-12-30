@@ -1,3 +1,3 @@
 # First-
-This is my First Program
+This is my First Git Repository
 Author-Mansi Bhandari
